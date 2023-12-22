@@ -1,10 +1,10 @@
 {
   "pages": {
-    "/playlist/page": [
+    "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/playlist/page.css",
-      "static/chunks/app/playlist/page.js"
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
     ],
     "/layout": [
       "static/chunks/webpack.js",
